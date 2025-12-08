@@ -3,9 +3,10 @@ import type { Word } from "../types";
 import WordTilePlace from "./WordTilePlace";
 
 interface WordTileColumnProps {
-    words: Word[];
+    words: (Word | null)[];
     selectedIndex?: number;
     onTileSelected: (index: number) => void;
+    emptyIndecies?: number[];
 }
 
 function WordTileColumn(props: WordTileColumnProps) {
@@ -31,8 +32,8 @@ function WordTileColumn(props: WordTileColumnProps) {
 
     return (
         <div data-testid='word-tile-column' className="flex flex-col gap-2">
-            {words.map((word, index) => <WordTilePlace key={word.id}>
-                {emptyIndecies.indexOf(index) < 0 && <WordTile 
+            {words.map((word, index) => <WordTilePlace key={index}>
+                {word && <WordTile 
                     variant='text-only'
                     data-index={index}
                     word={word}

@@ -1,0 +1,2925 @@
+{
+    "data": {
+        "words": [
+            {
+                "id": "2b574db4-043b-4f21-9307-3d9c8c0dc853",
+                "value": "թարմ",
+                "translation": "свежий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/58eec91702f3cf553fbdda34a344c946.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "71082441-f487-43aa-877e-f82853f2ef8e",
+                "value": "հասած",
+                "translation": "спелый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d6e099b0c3e3fa2203991184af241b66.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "dd3eed6d-be0b-4509-b018-b1af51203f6a",
+                "value": "խակ",
+                "translation": "неспелый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2ecedff673423a1f2fc87f4afb7c8292.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "b2d434b2-f6d3-49f4-adea-9bc0b233823d",
+                "value": "քաղցր",
+                "translation": "сладкий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/20a39f566a43a831b13ac28aa3def588.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "22f245e1-ae3f-43f1-84b6-3beeeaec5f27",
+                "value": "անհամ",
+                "translation": "несладкий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e8fcdb90b6db93236b978d9a93b167af.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "944f5d1c-07c1-4481-abc5-937cffdbaa28",
+                "value": "դառը",
+                "translation": "горький",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/59c83b8ea08609288e9acba850d888f6.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "830f441c-537d-4dce-a2fe-56a8e49d2546",
+                "value": "թթու",
+                "translation": "кислый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d890f42c785987e202227d0cd46c958c.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "5818c519-b909-4724-b08c-dfcad2776655",
+                "value": "կծու",
+                "translation": "острый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/73a6205224dadc02ec7fea541c117055.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "a888a0a5-db48-4ba3-9bd9-a384e006a05c",
+                "value": "աղի",
+                "translation": "соленый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2a7077a8ab6dabe058a8bca40db9bd8b.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "a6196c11-6c25-42ad-b18a-9f4b4709688d",
+                "value": "ուժեղ",
+                "translation": "сильный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d3f633185c78954ac88cfe3d47378d67.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "5752d7b3-e450-415d-9578-a56a0745234c",
+                "value": "թույլ",
+                "translation": "слабый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0fc7046927913b0ebbe4bbbc3de8af58.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "f75f31f9-f0e1-4e0d-ae54-4c973012a7c4",
+                "value": "թունդ",
+                "translation": "крепкий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/becf65f9f729b9021c943594cbe22e28.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "b9f9c826-923e-471d-96fa-c321f3a0c201",
+                "value": "երկար",
+                "translation": "длинный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2fb2e6a64daad635c062d5f5d0b37821.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "f2f3912c-e54b-4684-8974-4ab07a7e7f4a",
+                "value": "կարճ",
+                "translation": "короткий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2e5f5bc2989fd9abe32ca3468405aad7.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "39974f09-a9b5-46f5-84ba-99d8c5f07763",
+                "value": "հեշտ",
+                "translation": "легкий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ea91241f35eb94b62abc65bebc03a61e.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "562993e1-b39b-4d3f-88ca-cfcc7469306e",
+                "value": "թանկ",
+                "translation": "дорогой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d2e271d0a502069997644faf2f6e800e.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "bb78c505-96cd-4627-896a-60d3de80c513",
+                "value": "խելացի",
+                "translation": "умный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d140cca2be21c76f60f52742fed8f284.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "3f30acbe-7d17-4570-9912-3965d410f00e",
+                "value": "նուրբ",
+                "translation": "нежный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3a7800abc2437deaa511f22b8c327af1.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "9256a7fc-f9b7-4652-86f8-e6caff3584c3",
+                "value": "դժվար",
+                "translation": "трудный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/28151ed9fb2d6e596ca10f029a353ad1.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "2f0240e1-014d-4ff5-8c4e-1603d115a672",
+                "value": "էժան",
+                "translation": "дешевый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a0a7207ed42604ff3bb96057f02ccf8d.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "30179e89-dc1e-495b-946c-12d065698d3b",
+                "value": "հիմար",
+                "translation": "тупой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/02e9f6bf7d8dc715619106826c41f058.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "7bb67a93-9da5-4fde-8b96-45a9b17cdcd1",
+                "value": "ապուշ",
+                "translation": "глупый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/70d16331e28b2c98fb2c438c8ab06aa0.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "1faf93db-0389-487e-8250-b6f494b689c6",
+                "value": "դեբիլ",
+                "translation": "дебильный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d6dc69e4fdcc7297e02a45f5b8ba4167.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "c70578f7-440f-433f-ae3a-2d3a479b028e",
+                "value": "կոպիտ",
+                "translation": "грубый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e4e955be2987ff5da68e90e44f353b4d.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "1355a989-4154-4da5-8c07-c906232d9058",
+                "value": "սուր",
+                "translation": "острый (нож)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/193c6c854384553997d0053a2b45fe22.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "4c37eef6-aab6-4669-a6f2-d1ac9fcd8d3e",
+                "value": "գուլ",
+                "translation": "тупой (нож)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/09b76fa49305627770d9058b26651729.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "54f12159-d7d6-422b-aa7a-736e187c3174",
+                "value": "մեծ",
+                "translation": "большой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b26723cb07d3056fbddabc0cabf76463.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "0018e45e-cc7f-45a7-84a1-a8c0e2836695",
+                "value": "փոքր",
+                "translation": "маленький",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/04b1d9869191aa96b7a1af82d5cf8fed.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "b74c016d-00b5-4616-9743-a3fbbf20ecba",
+                "value": "նոր",
+                "translation": "новый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fef8655f2f0dff1cbe4b997ea50bcdbe.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "3907077b-13cf-4bf0-aeb0-05a03fe27321",
+                "value": "հին",
+                "translation": "старый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a7b2b54a6e1f88f692ecfcddf8ef8dc6.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "ded520da-d745-4586-ad50-53c7ad1d67a7",
+                "value": "սիրուն",
+                "translation": "красивый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/82fa882f021fe3abad14aac78987d4d5.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "10bfbe13-e9fd-4b81-96a7-f5a7e44ec589",
+                "value": "գեղեցիկ",
+                "translation": "прекрасный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e32e47de4996d811e14bffe3826e336a.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "1b58044c-f945-434d-ab77-027f2071429d",
+                "value": "գեշ",
+                "translation": "некрасивый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a4c6c28401b80ed668d6f548b0178813.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "260dc396-c115-406f-8faf-11266133263f",
+                "value": "լավ",
+                "translation": "хороший",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f20af994630db607d1a2b2fe32dc13b8.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "71f03375-9ad5-43ae-8263-a8ea578499b1",
+                "value": "վատ",
+                "translation": "плохой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0b07d152748acbf3b9f7a64df2b45c5f.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "295cb9d9-10b2-4368-8cb2-87e596b5e3b4",
+                "value": "արագ",
+                "translation": "быстрый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/112c342d867fb0d06ff59a1562f7ff65.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "51d4e24a-09e6-4c62-813e-c542d4da961c",
+                "value": "հետաքրքիր",
+                "translation": "интересный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/14528ab2010af265d0f9c06ac3d7fbe4.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "b75f26ee-bc65-4aec-b33a-af0b09847324",
+                "value": "դանդաղ",
+                "translation": "медленный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/454efd0ba15e38ad8c87f0ee788161b2.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "f439f70c-0cd6-41e0-bc23-ba72022d7489",
+                "value": "անհետաքրքիր",
+                "translation": "неинтересный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0c5a6f0da7565742f797e629e122501b.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "529cbe7e-d88c-45ca-8206-4a302e16fda7",
+                "value": "շուտ",
+                "translation": "ранний",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c8c203e3b876f01298d042d97c21c11e.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "3b03d915-afe0-4192-b33d-c676f4db0e04",
+                "value": "ուշ",
+                "translation": "поздний",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f25aa4a35397b403df06d57ad02a6593.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "e7f89958-db1d-4067-8fbd-6a8e4f7409f5",
+                "value": "աջ",
+                "translation": "правый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8c2e1d68fee764fd2e6d656bb325613b.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "02ef192d-8452-4987-9b86-4039dfaef597",
+                "value": "ձախ",
+                "translation": "левый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/308c5cda0b38f5e3bc0cb1905159694f.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "847e79d8-1ffe-46a1-ae1f-6419a633ca50",
+                "value": "ուղիղ",
+                "translation": "прямой ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/84019206016f5eec88db4f9f9e5f0b3a.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "2b09620c-bbf0-4b74-bef2-aa96b787542f",
+                "value": "հյուսիսային",
+                "translation": "северный ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2c1c1e534de670424b4c54808cb48ef2.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "6dc60c5a-feb1-44ff-bd2e-4ae9c15930f0",
+                "value": "արևելյան",
+                "translation": "восточный ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/649d5e293ff24dc548a7659322ed1439.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "b0da6669-ef99-4be7-892d-870b29ffdf1f",
+                "value": "ծուռ",
+                "translation": "кривой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9c5821210fcd46fceec220d8b2df2f37.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "f30a9c19-5be1-4f07-b37f-13a1a5197903",
+                "value": "հարավային",
+                "translation": "южный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/abde14620864e9c16d283d710ccca5b3.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "3ebe5840-4a70-4ad5-b7bb-5a67338eb211",
+                "value": "արևմտյան",
+                "translation": "западный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f2d3796e4e36b5d2aa990fbe9b3f5f4e.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "482cc640-dd30-4990-9dd1-7e59d1a59f59",
+                "value": "լուսավոր",
+                "translation": "светлый ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/cb855992ca7b2ea34c729de66069db9a.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "180f34ec-db55-4892-8d8c-b5adbae986f9",
+                "value": "ծանր",
+                "translation": "тяжелый (вес)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c4a79dfde227c2c9178ddef0b182822f.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "9cee290a-47fa-448f-9edc-871a31d9eeec",
+                "value": "հաստ",
+                "translation": "толстый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/59ed878fc8f02a488fb73dd0c1177385.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "4fb30617-3eb8-4418-98e9-5a71fd284177",
+                "value": "գեր",
+                "translation": "толстый (существо)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/cb828f7f5d191deb96af3c5f3c97c22a.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "dc2214be-cadf-4f35-aeb3-1231ac550727",
+                "value": "չաղ",
+                "translation": "толстый (существо, разг.)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/96b3c56b0f6c6f1d413df681f8cb91f1.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "3f4d0a00-0950-43e0-a1ff-f4bc0cbc16e6",
+                "value": "մութ",
+                "translation": "темный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0b0fece5d1b94ae4ff2ff90eb56cc96f.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "247ef3be-25f5-4706-8c96-8516bfbe57f2",
+                "value": "թեթև",
+                "translation": "легкий (вес)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/baa34416610f592ae77a94bfed364105.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "6031589d-6bc9-4ff1-8dc5-dc240816fb57",
+                "value": "բարակ",
+                "translation": "тонкий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/84858f06c73872538df44922d3d61d97.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "704faec2-56d2-4442-a207-39731eb422bd",
+                "value": "նիհար",
+                "translation": "худой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1542ade827ce51d2c95fb538ea0b8c3d.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "af0f4b61-7ebc-4660-b8dc-2f78c16f4ac5",
+                "value": "սպիտակ",
+                "translation": "белый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/83f6a099ac709b1fbfb0209bc51e6deb.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "af7988df-554b-4fb7-b081-d66e95160300",
+                "value": "կարմիր",
+                "translation": "красный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9a6754df08ad99df496b884174008a3d.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "6f0cca8f-eb15-42ed-9084-fbd3617392de",
+                "value": "կանաչ",
+                "translation": "зеленый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/848264c09c2446fc3a80fc3cba856e36.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "bcbf84c4-2119-4cda-93d4-856d4a719d67",
+                "value": "կապույտ",
+                "translation": "синий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f66a9c0334239b69f92ec37d6d5e79f1.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "c26f3593-4d1c-4f31-b22c-d8ac7218390d",
+                "value": "դեղին",
+                "translation": "желтый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b6043d5942a60081a773157a1b605a3a.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "a8e18dc2-9444-4113-bd98-57813786d252",
+                "value": "երկնագույն",
+                "translation": "голубой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fb3e81db9a9b42ac8532016f078f8ff5.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "e26fb8f9-8844-4433-b96e-abcc067ddc75",
+                "value": "մանուշակագույն",
+                "translation": "фиолетовый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/aabbd9d3b1d8f259b287febb04013b72.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "be04b297-9faf-46bf-a548-b5a4050fdee2",
+                "value": "շագանակագույն",
+                "translation": "коричневый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3390481639d84d2e7c6bff8988b74dc0.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "117ec905-f674-4f73-a5a3-3b1002f98c89",
+                "value": "ոսկեգույն",
+                "translation": "золотистый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4ef741d6fac80a3077ce138b258082c4.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "8648c59d-7ecf-407b-aba2-2865004a56dd",
+                "value": "արծաթագույն",
+                "translation": "серебристый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d4c28b6e242286fb97befd5b50d6012e.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "a4ac7c23-2015-4abb-a5a1-2cc49f4cae62",
+                "value": "վարդագույն",
+                "translation": "розовый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/68e9a4e8cabb04c6ef869a535443dab1.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "fc004cc2-cdc0-4380-9433-423727e0d45b",
+                "value": "մոխրագույն",
+                "translation": "серый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/96f88a6bceb7fd9c4ddfe0e793e29a09.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "6dbfe298-105c-481c-9ddf-c60f52f154f2",
+                "value": "փայտե",
+                "translation": "деревянный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/da3035bc6da352b68b9bbde41544fd1b.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "c7c90790-ed66-4fac-889b-1470d51efbf1",
+                "value": "ապակյա",
+                "translation": "стеклянный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b3dc23069acf3407a19bd0f038198236.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "afa19087-1e87-450f-8661-4b1cf59de030",
+                "value": "երկաթե",
+                "translation": "железный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/34e2ed0a3a6867f7b7a30a9e4d3bc1c3.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "2eb3374e-a60c-4760-9d06-cfd0165a47e9",
+                "value": "կավե",
+                "translation": "глиняный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c7bfb8c2416a739fffdefec5cd712b22.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "ee17028f-f2f0-4041-a356-a0c8e92753d3",
+                "value": "քարե",
+                "translation": "каменный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2fff71e9add88a154f0a798c57d8e819.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "c084efac-bf3b-441e-b174-6b6c0ce847f4",
+                "value": "թղթե",
+                "translation": "бумажный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/97fcf697607b5a5f6803c42b2ee1fd4c.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "177f258b-bb2c-410a-ad8a-f23d48fb2dc0",
+                "value": "գլխավոր",
+                "translation": "главный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e7fb64dc2b7e626324e12cabdb2a7c17.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "34c768b8-e2cf-4aa4-847a-632e6501912e",
+                "value": "օգտակար",
+                "translation": "полезный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3f1278c6d2d0f489a2b7fae0f9c57158.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "ef319722-71ee-43bb-b5d5-b14113af39e1",
+                "value": "վնասակար",
+                "translation": "вредный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/69648f7c008397a59b491825fdec3d58.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "ea1167a3-53af-48ae-8984-881a94bf5e0d",
+                "value": "հայտնի",
+                "translation": "известный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7450ca99f1fc38afa8c78b0e08607a66.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "81ba2a53-acbc-4659-b0bb-5bf993a9234b",
+                "value": "հաճելի",
+                "translation": "приятный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dba732f209498d54841e329ef0b2c717.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "20e14cf8-4161-4194-9d38-f419b3ecfe37",
+                "value": "սոված",
+                "translation": "голодный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1cb8c8edff777c641087111a937b9486.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "5f2d87e1-5e20-4293-8444-cf4b20882e6e",
+                "value": "կուշտ",
+                "translation": "сытый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d51f5a73aeb7370aac6e2b52f7bc6140.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "417cf216-6324-4ef6-aace-f9e9e46cf766",
+                "value": "գոհ",
+                "translation": "довольный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/756f369a6151d7148eb19f526cbdc86b.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "e221eb09-688e-4743-a497-ad6d412d79ed",
+                "value": "դժգոհ",
+                "translation": "недовольный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/970eef5150c7fb8d58471949d6e0d7fc.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "57fadca2-db59-4b10-af44-6b51fbd97e22",
+                "value": "միրգ",
+                "translation": "фрукт",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/10ebfee93dc88e0765de1e25649fd701.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "4ec66a56-8e46-4b7a-8b52-d45efd27f674",
+                "value": "խնձոր",
+                "translation": "яблоко",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/cda9121f560be31153ef434c7553f331.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7b585886-eeb6-4f9d-a1d8-9ebafe90dd09",
+                "value": "տանձ",
+                "translation": "груша",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/eac12e6e184387e6e45abe6a04cf108a.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "a0c6d0d9-06a7-441c-90d7-6f0bd29879af",
+                "value": "ծիրան",
+                "translation": "абрикос",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d2a7755590060254fc192b674376fc6b.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "247e6f4c-43d7-4589-9828-ec0a81b8f701",
+                "value": "դեղձ",
+                "translation": "персик ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4b40414aa602eb957aa0b186e835a3ab.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "e7af6880-a9b7-4a33-99e8-1af13e714a35",
+                "value": "նարինջ",
+                "translation": "апельсин",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7e9b7ab14d67f27b5a9fcba1b1b6f373.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "8f81d968-10b2-42f9-8bda-f5e6c77b8517",
+                "value": "թուրինջ",
+                "translation": "грейпфрут",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4c733f72d4fa9da61b5c7b66ee4f5f39.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ccb49db7-9775-4e14-a2ae-aad25818344f",
+                "value": "բալ",
+                "translation": "вишня",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/969358ad5e88638e035a1327ea1161e0.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "9a8ae219-9e38-4fc4-9bd5-e10ce16e3a61",
+                "value": "կեռաս",
+                "translation": "черешня",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ffacc8f112cb4bd1b9ba84cdf79311fa.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "98dab603-b311-44d9-a155-caa8e11f543a",
+                "value": "գիլաս",
+                "translation": "черешня (разг.)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c65708d5568005041ac895a16c52b425.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "25dbb862-a024-4757-9cd5-9f1d0db12225",
+                "value": "սալոր",
+                "translation": "слива",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dbae37dc63eeeea7985912c91a9b9aef.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "c3e5e742-7c0c-4070-9617-19619ae998fe",
+                "value": "շլոր",
+                "translation": "алыча ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fdece2657c8a710d3a1536b94e5f4f68.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "a7042f90-2814-40a0-8564-9f56feeb4882",
+                "value": "արքայախնձոր",
+                "translation": "ананас",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fe506932a592cc6cc804f2d3bc6ca7fa.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7db4479a-2a2f-43da-b805-8f0e5d3c3bb8",
+                "value": "ադամաթուզ",
+                "translation": "банан",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7f91e4dce3af06ecf6d01b39d564607e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "2e0f0311-2b2c-4444-a34e-a1080afaef43",
+                "value": "թուզ",
+                "translation": "инжир",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c0351a478823c149ce9f6059dcf42848.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "10fc3fd7-619c-46af-b000-8e4cc02f1726",
+                "value": "խաղող",
+                "translation": "виноград",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d471d6c85c23b094a0cf4ec8da1302f0.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "8bcd2157-9e40-43c0-a301-555af3a3cecf",
+                "value": "ելակ",
+                "translation": "клубника",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e982e9a1d85492bf8f609561181be6e5.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "cdea9be1-66cd-474b-b243-806236203929",
+                "value": "մորի",
+                "translation": "малина",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a89ab64bdada476abb23b893badd71f7.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ec9c2bb9-1a3f-485a-aa20-a183cf644799",
+                "value": "նուռ",
+                "translation": "гранат",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/eb3236c00a2f58c1ea5263d901e09726.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "915667fd-5b71-46d2-83b6-7a7f913c679a",
+                "value": "սերկևիլ",
+                "translation": "айва",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d64266018d22d6fdee887298c52187e9.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "54d6b294-b7f1-4bb0-acca-eeaae89aa3c3",
+                "value": "ձմերուկ",
+                "translation": "арбуз",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3631b80310e193c75327d788a28902c5.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ee2c3f89-889d-4bb7-9687-ebd75961c494",
+                "value": "սեխ",
+                "translation": "дыня",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c82b9ae8aa63d880a2b31743a75045ba.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "714821f8-c90f-4d20-af4e-7f388f9d3f1e",
+                "value": "եմիշ",
+                "translation": "дыня (разг.)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9175d0ab0334df496c593167581824cc.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "c342fd0d-e14e-4c49-bcce-4c63adbfe76a",
+                "value": "թութ",
+                "translation": "шелковица",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dab82259c4e7a70a33599a1ac7f643e8.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d69d0cf7-8b92-4488-ab82-d83ccdaebcac",
+                "value": "բանջարեղեն",
+                "translation": "овощ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8b54fe8ac4d9766c1aff1d78bd11c046.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "929957cc-508e-47d5-bf65-3e3f491b9a3c",
+                "value": "պոմիդոր",
+                "translation": "помидор",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/13f00fd6090360cdc7c8065741a5e37d.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "4ba76283-96cf-43ff-af31-b12f7a0fcd92",
+                "value": "վարունգ",
+                "translation": "огурец",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8de914412eab3655ce5ff6d18c251e99.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "f0459f32-5db7-4d6e-bb19-cde807a0cb73",
+                "value": "դդում",
+                "translation": "тыква",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1d43eb8336752e36b593f36164d2eecd.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7278c016-beb4-4218-95b4-c5b4811a4dcd",
+                "value": "դդմիկ",
+                "translation": "кабачок",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/eefa6b4708578f3c415b58c2ac63d99d.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "cf213ea0-45e2-4308-be83-36a7584ad3c8",
+                "value": "կաղամբ",
+                "translation": "капуста",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7b54f27615c45a4a772f79116499c13a.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "6eaa3135-60a1-46ab-9919-ab152d08e2cc",
+                "value": "բադրջան",
+                "translation": "баклажан",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/680100216213dde5ccb805872c730357.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "166549c4-206c-43cd-8333-85c9595dbbac",
+                "value": "լոբի",
+                "translation": "фасоль",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e6c2469c402505614396bd85e663425e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "a976e5d8-86e7-4e47-b5dd-bf88d39d65d5",
+                "value": "բիբար",
+                "translation": "перец (разг.)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/15dfb17f4af1c3bc21aaa51fc9728da4.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "a0079ccc-af77-4ecf-8d6f-3c34285b67cf",
+                "value": "պղպեղ",
+                "translation": "перец",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ce11ae33359661788932f9281062ab6b.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "0b99b8d5-d108-4bb4-89e7-c6b565bbe28b",
+                "value": "բազուկ",
+                "translation": "свекла",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9090546b9b8d54ff3ab4d7f6ebda217e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "10c21e77-4e8b-46cb-8ad4-b40f4ae8a696",
+                "value": "բողկ",
+                "translation": "репа",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4fdf72b8e3bd413c493bcd0b9d7b116b.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3573f392-e140-46d3-b251-9c15c2956c31",
+                "value": "գազար",
+                "translation": "морковь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f4465f5393dc4bc49e5a4fe2f7ec65d4.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "363ae0c2-54aa-46b0-b5b9-6c132c06bee2",
+                "value": "սոխ",
+                "translation": "лук",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a79001c47e20074aa9dfcb3cdaaf1f16.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "1176b7c6-f7a0-4464-a284-ecb4d2b8a546",
+                "value": "սխտոր",
+                "translation": "чеснок",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d5c3be1831bab9639d0884a419f00f3c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "4fa211d3-6d8e-42c0-9bd2-7cc883a08002",
+                "value": "սունկ",
+                "translation": "гриб",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2757d82fbae453bdd6b1e0bb01e8ec41.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "078f5b08-3db2-4eb7-bf4a-308ccccf441e",
+                "value": "զեյթուն",
+                "translation": "оливки",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b241ad7f904a750ee0ea7a02bd8c7b79.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "00891e34-ba28-43ba-ba0a-b5a3c7e472c9",
+                "value": "կանաչի",
+                "translation": "зелень",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2aa017f7a99641150bc524e1ccdb8131.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "50fd7e54-c34a-4143-ad08-8b5b127e971e",
+                "value": "սամիթ",
+                "translation": "укроп",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dec4837e353b70dfb6dc4a84e1788329.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "217299cd-c153-4000-8c21-819cf263d865",
+                "value": "համեմ",
+                "translation": "кинза",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c413cf1ddb4bf0ef7ea1f3ba708dce3c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "15f49093-8912-4c4b-9b11-90d0e150e7e7",
+                "value": "ռեհան",
+                "translation": "базилик",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0e17a1883a58b80cd2a2df4ff4bad508.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "a08599dd-180d-4812-97c3-19ad81e9cf00",
+                "value": "սպանախ",
+                "translation": "шпинат",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/cce252ff7ad4b254e0cab3b96d234053.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d2bea171-bfd3-4a4f-bae2-5c53cc1a649c",
+                "value": "ծնեբեկ",
+                "translation": "спаржа",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ecf5c99a5ecc94d27e8691c9b7b54a33.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "aa142406-e230-4cb4-81ba-c6e4d40724a6",
+                "value": "մթերք",
+                "translation": "продукт",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/abced60a7d208dc02cc6ca52781ecd23.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "03c727ad-cd09-4936-82a4-3096800b8674",
+                "value": "հաց",
+                "translation": "хлеб",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/065979dae2f9fd9934895e5f118f5cee.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "b95d7ac9-a4bd-4ac8-93e1-10da86de3f50",
+                "value": "պանիր",
+                "translation": "сыр",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/167395f2678c6335cf0e1b015cb80b95.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3c4f316e-a31a-45b9-84f5-7ac75b791010",
+                "value": "կաթ",
+                "translation": "молоко",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ea1d7b143b1b7c5fbf04a553ec0a5a9a.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "c3cd7549-6b2f-4dac-bad4-0071c9ac266f",
+                "value": "կարագ",
+                "translation": "сливочное масло",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/17b61016aea48e1c943629ac31186ac9.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "dc36b4e0-3d3d-4ad4-882c-dcafa5554da3",
+                "value": "մածուն",
+                "translation": "мацун",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5cc54acd8cb642a4380b4b257da6a9c7.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "24cecd9b-468f-43f0-9c6a-6f0779cf4786",
+                "value": "սեր",
+                "translation": "сливки",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dd60f42b949741097bcc4df84bd24916.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "98a81e7f-74f1-484d-903c-6ff98f18d8d3",
+                "value": "թթվասեր",
+                "translation": "сметана",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/af5b7b54ca2345f7111061c71fe4ad85.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3ea55376-dcf4-45ff-9763-7b56e6bbe0af",
+                "value": "կաթնաշոռ",
+                "translation": "творог",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/cbb946835ebf7aa8143514978fe02677.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3515d191-96c2-4a82-a17c-948415610cad",
+                "value": "ձեթ",
+                "translation": "растительное масло",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a8ccd3ee205d5d1c59f4580772b209d2.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "777c6475-a1f3-4bc4-9cc7-bbef563d8aff",
+                "value": "ձու",
+                "translation": "яйцо",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c4100c1fe137bd381e02c29e217a7bb8.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "8759271c-74bb-440b-bafc-2ae01876874a",
+                "value": "ձուկ",
+                "translation": "рыба",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0a184617d52005d82b1f13c154327f6c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "53519c5b-87a9-47ff-82d1-e8049f9b2f1d",
+                "value": "ձվածեղ",
+                "translation": "яичница",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/57373bd1a823da095322ed919833e65a.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3b09fb8a-18cb-4d6d-bc1f-a1b723e68ca8",
+                "value": "խմոր",
+                "translation": "тесто",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/18526ea4dc3c5599acaf3b4b6951b939.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "a77fcfb8-f893-44ac-a007-01ea93de978c",
+                "value": "թխվածք",
+                "translation": "выпечка",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a449f4e96ac742e7d4032e2b0b7e7d2e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3c9bf957-8c75-4d2a-b9bf-54f8e266f667",
+                "value": "բրինձ",
+                "translation": "рис",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ce66c6cb481f51e69443e399d1c1ad12.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "e2e7824c-b7dd-47ae-8991-a8ac734d9ee5",
+                "value": "գրեչկա",
+                "translation": "гречка",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/30f023ca9edb70c463b54d3550fd8057.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7adcfbfe-1d64-4a0b-9701-3b6c5e20e4a1",
+                "value": "ոլոռ",
+                "translation": "горох",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/85c29bd52ee99365776c384774037387.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ba4f5ede-f04d-4045-b06b-8922b48945c1",
+                "value": "սիսեռ",
+                "translation": "нут",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/106c2611f698f542e92edfe8fc3fca17.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ddc772e7-2a13-40d0-9628-bf2079edeaf3",
+                "value": "ոսպ",
+                "translation": "чечевица",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/079b27e2c331aa82fa45a0828dbe68dd.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "b520f8cd-1956-46a8-8ae4-4fbe4e290bc9",
+                "value": "մակարոն",
+                "translation": "макароны",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4c400630d46bd980541d5c5d77f90ebe.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "265962be-84e4-4179-ae2b-07f6fb03dcdb",
+                "value": "երշիկ",
+                "translation": "колбаса",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6e86b1b76779a9f64a0e26dcd1d38afd.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "1318fdbe-a9f4-4f40-8ec5-2b69a935eb0a",
+                "value": "նրբերշիկ",
+                "translation": "сосиски",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8910c1f365f99bb857e7f6bf7206c11c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7c210e91-3033-4406-b341-4326c749e4f8",
+                "value": "աղ",
+                "translation": "соль",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7e8e5f91b37fd20a914c6af2eb35f618.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "2ae43881-8cc2-4894-b14c-384167f55d3c",
+                "value": "շաքար",
+                "translation": "сахар",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/be427696c2fae4a671edaa12a9b3e626.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7ce8cd96-408e-4147-9b35-99e881a74863",
+                "value": "աղցան",
+                "translation": "салат",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1442d9658148775e20ace674d0095eb3.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "f63bf44e-b6e9-439d-a479-1f4538831f6f",
+                "value": "միս",
+                "translation": "мясо",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/56741fcc9250712c2a719ec23d7c4971.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "0fd41222-4456-427d-91e4-ae09c95231f2",
+                "value": "աշխարհագրություն",
+                "translation": "география",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/811f906077bcabbd3361a9f4e8a15c70.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "6727309e-f135-4e63-ac21-85a1378bb154",
+                "value": "հյուսիս",
+                "translation": "север",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7c8908ce6489699d7513edec9b2be190.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d1247fa3-9aab-471b-97ba-81049f225272",
+                "value": "արևելք",
+                "translation": "восток",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a2faf7f3193543e85a5c6e5ba06621fc.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "4183571d-7b87-432b-9f84-62cd54ba8cdc",
+                "value": "հարավ",
+                "translation": "юг",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/08184f8c870b1c988ffdaa3005b0360e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d683d9ea-3139-465e-9bf2-f119e380cdd7",
+                "value": "արևմուտք",
+                "translation": "запад ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8d70187af6c455c9ec3ab3a421c0e08c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "1b12025d-591c-4754-b577-3bf66fc59c65",
+                "value": "փողոց",
+                "translation": "улица",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c06f6943f0ae79c187f91a6f29101779.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "99029ee6-42ab-4a15-ac76-8117cad6b908",
+                "value": "պողոտա",
+                "translation": "проспект",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/02787eeaea9ccb414efaf754b3bb6261.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "86a4b069-6d85-49b3-9b9d-8d7be49a47d8",
+                "value": "քաղաք",
+                "translation": "город",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/886af7110f1232fc37465ec101958536.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "308874cc-5112-4d2f-bd7c-da3ed643fd41",
+                "value": "գյուղ",
+                "translation": "деревня",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b29d2df0367c9f350c84c2a9115a9650.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3c5b5d82-a630-4874-b171-471de34b713a",
+                "value": "երկիր",
+                "translation": "страна",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9895840e1debc66862f658771596ed2c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "0eda2c77-fb21-4809-bdfa-a20b6911a59d",
+                "value": "մարզ",
+                "translation": "область",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/faeaf9cf89eac7242b400136c0457197.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ad02ec12-dd87-4880-86b0-1c4f443bbb55",
+                "value": "շրջան",
+                "translation": "район",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d2215381e5d09937b2793b80084a5c3b.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "fd171d24-96ce-49f7-8bb3-81da37cf399f",
+                "value": "նրբանցք",
+                "translation": "переулок",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/58c0e0b17721267e97e51c522d4e6c3f.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7be96896-fc60-4c58-b4f7-0305b613041b",
+                "value": "շենք",
+                "translation": "строение",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f8d7536835121435f1ae0990c305114e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "b9f5f184-bc94-476c-9684-e8c0fbc29e00",
+                "value": "հարկ",
+                "translation": "этаж",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/757ad8e409959de6d5c97d08124a3772.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "c14b7cee-1392-48e7-9447-58f87f6e6b26",
+                "value": "բնակարան",
+                "translation": "квартира",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a64f966237e0cac56d680d5558270c32.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "93003481-7d55-41a6-9dab-139cd25ffc6d",
+                "value": "կենդանի",
+                "translation": "животное",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e46b8e1509b709dd6adcdbedd2684dcf.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "360782c5-0727-4dc3-97f8-70852a516d45",
+                "value": "շուն",
+                "translation": "собака",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f45132edc3246aa30df226c04c171975.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "cb8ea8c1-3d85-47f6-8071-4879cd5a3de1",
+                "value": "կատու",
+                "translation": "кошка",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/acde6572ca0cf94feabc257eeed5cfa6.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "e1b4ce44-1e5d-4f36-ab97-57b891978430",
+                "value": "ձի",
+                "translation": "лошадь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/088461f206dae6df506821dfe888debc.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "f886b631-8dd4-4c91-96a8-7b86792c91df",
+                "value": "ոչխար",
+                "translation": "овца",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/aea515170d93f672d56bb0bacc27bb37.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "36696f37-d6cb-4956-961e-c5d4e9d7357b",
+                "value": "կով",
+                "translation": "корова",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/097ef00c9713081832ff7b69a010177d.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "930b17c0-0f23-4a5c-8e60-506012268e6e",
+                "value": "հավ",
+                "translation": "курица",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/827ee0caf23e4ad319a00f5425bea652.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "f76443c1-cc2c-4a65-9dee-f2f1130e478e",
+                "value": "խոզ",
+                "translation": "свинья",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ccf36cf4e5a1a54cfeb2aa8ef5ab511c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "09f08d57-11b8-4346-b412-b95035a6263f",
+                "value": "վագր",
+                "translation": "тигр",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8f7bc304b7cc2ecfd23cbaaa18eed87a.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "c8f9083c-8e91-4127-8b45-b1c0a9123c1d",
+                "value": "գայլ",
+                "translation": "волк",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ea698795d313c6a6ed5e2a578c47a0ae.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "de42f00f-e173-459d-a219-117ea449f17d",
+                "value": "փիղ",
+                "translation": "слон",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c6fa2a7871d6a080f19c7369354b8366.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "85a44109-f881-4550-8b23-88c6540daed7",
+                "value": "արջ",
+                "translation": "медведь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5b9f1b1f8c9b36e88fe5b0bc1240f0a1.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "775445ec-cc8a-48fd-bbe7-6a75be16cf60",
+                "value": "նապաստակ",
+                "translation": "заяц",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/768c7cc35e93a39332fdc7b974f36a39.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "98a4d259-8e53-43b4-b66a-d02e2d7dc7fd",
+                "value": "կապիկ",
+                "translation": "обезьяна",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/eb18c17e9dfa28709f79383b5bd0e470.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "88e2e2f0-c81d-4220-b234-a621aeb98c3b",
+                "value": "բադ",
+                "translation": "утка",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f44c57a2a7f1d13f5b518c4bd859c950.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "4f46efc2-36c1-46ff-b8a3-c02ec0822f2d",
+                "value": "մուկ",
+                "translation": "мышь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/23ac4aec059e275e3181f93811b81443.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "8c79cc44-2ca3-4bbe-8951-6ef00dd17016",
+                "value": "կապիկ",
+                "translation": "обезьяна",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/eb18c17e9dfa28709f79383b5bd0e470.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ed260966-3a8b-4f4b-a821-d9aa2763d6dd",
+                "value": "սագ",
+                "translation": "гусь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a85e4e77e67a7bdc80e9db62ef061267.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d4d7377a-f68e-4e4f-9650-3e3e63d1f513",
+                "value": "զրո",
+                "translation": "ноль",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8bc49cf61ef184f131a2d54e9b416040.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "ba73ae57-4ff6-42e9-bd58-e472d1ff7748",
+                "value": "չար",
+                "translation": "злой",
+                "speechUrl": "",
+                "kind": "adjective"
+            },
+            {
+                "id": "12e07039-7c4f-4437-8657-1114b955c1ec",
+                "value": "բարի",
+                "translation": "добрый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6d94d5e7b6b5398e119946d0eb13bfd7.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "a9501865-3d23-4aff-973d-249b10c24e2b",
+                "value": "հասցե",
+                "translation": "адрес",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/63ef613481831e4699f28735d8ab3504.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "7a6b5803-62b2-418f-a9d3-12e1bc31e0bc",
+                "value": "գաղտնաբառ",
+                "translation": "пароль",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dad72cd0e6fbe414f396774877cab5cc.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "77cb5e22-7edc-4ae4-bf9c-c7be67970a2b",
+                "value": "սև",
+                "translation": "черный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/12430512352f06653dc43164e8db0174.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "01210237-4e09-4972-b88f-48a53d7c747a",
+                "value": "մեկ",
+                "translation": "один",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e91d324e6d62277ff3c21384caa02980.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "c817c928-2f81-405b-8cdd-95e4e064be7e",
+                "value": "ծրագրավորող",
+                "translation": "программист",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/005b62a11e115c58a2a3c81b4fd778a3.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "feef12d2-db02-4a23-a30f-0de626a6c657",
+                "value": "անձնագիր",
+                "translation": "паспорт",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/241a6b022d72e0e783545546c31e2be7.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "546dbe2f-6afc-44fc-b7cf-6626b29ab6d8",
+                "value": "լսել",
+                "translation": "слушать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f023a83bd7e90d5d5ca173236890fba2.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "0cc7c676-cfc7-4961-bf14-98ec94ceda35",
+                "value": "նայել",
+                "translation": "смотреть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f2cdf1d56126514ffcc50180c73a23ef.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "f7cc91a2-e586-474f-be31-59e228fa5d68",
+                "value": "նայեցի",
+                "translation": "смотрел",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5439e442b63c22bb97bb62fa3a697a7d.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "a642ee88-fbea-42dd-9e8d-76c6e0c1ac8a",
+                "value": "նայեցիր",
+                "translation": "смотрел",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b9a0105023da3c62c19a98644350be76.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "25beb7cf-94ce-4050-bfd7-98c202c504a6",
+                "value": "համացանց",
+                "translation": "интернет",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8ffa08aff5610121edebe8972e6387c0.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "e0934952-5280-472e-88f6-5440df2b3b89",
+                "value": "երկու",
+                "translation": "два",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9fd34f60087eab0f5166a0e68e54481d.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "bd41ad80-de0f-4d81-809f-0ba71ea79846",
+                "value": "եիեք",
+                "translation": "три",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d7d11d6b27cf277b7daaa4c15a65f2cf.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "13eb3220-2213-4970-82b9-1c5f5d4d377a",
+                "value": "չորս",
+                "translation": "четыре",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2a26d3e99436c365263481fd108d02ad.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "3efd23aa-0b30-4c60-aad8-813ac843aec8",
+                "value": "տալ",
+                "translation": "давать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4ba236f6f3c9276c6e385f189613270f.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "c6c4154d-f1f3-426d-b315-a2e52e5849d6",
+                "value": "ստանալ",
+                "translation": "получать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f7d12c867b9554e6cf6f62dcc0377e72.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "c5ade3f4-8ee0-4a24-b819-cef32b7c8304",
+                "value": "ցատկել",
+                "translation": "прыгать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d75b0a962fbd2711b6cf4d36d7d9e1ec.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "ec85e261-153e-4a27-835c-4d64167fc8d9",
+                "value": "ընկնել",
+                "translation": "падать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a8cd626d55854b1bed78cfdd9aebf9e2.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "78b79090-2219-4dc8-a485-0fa791a06393",
+                "value": "մոռանալ",
+                "translation": "забывать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e0d5dc17974a4ab9be9a527c9ec82dcb.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "bb85d738-c3aa-43f6-9e2b-b35d61421ec5",
+                "value": "անել",
+                "translation": "делать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7f98afc7f307caefc19d8a054c4442fe.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "0a32ce1a-fd79-4fd5-8e81-d6428f7ae554",
+                "value": "ապրել",
+                "translation": "жить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/538a3e5fd0a1166186901fdd80a4ff6d.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "f16694d1-b380-42ef-a239-10524056faf0",
+                "value": "սիրել",
+                "translation": "любить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/887a1ca4f719c5f3916568b76cba5b81.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "fa20e099-1903-499e-b914-56fc9d20c11f",
+                "value": "գնալ",
+                "translation": "идти, ходить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c34c9eb634dd40e58b67a7b8293e77c7.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "552d1a7d-afc1-4292-b26f-3f165a204d33",
+                "value": "աշխատել",
+                "translation": "работать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9d1547868d5a31ce2f02fb5c1af4ceb6.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "2e2ca9f9-2bb2-4254-b181-f62c2095a77e",
+                "value": "հանգստանալ",
+                "translation": "отдыхать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c96d77afe513c27e5c8ae58d8070e331.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "6501fe0d-5db7-45c2-8c5c-9888c98fc5ed",
+                "value": "զանգել",
+                "translation": "звонить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/eb92d2107383866916ffe69c2e118fe1.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "13191e95-9792-40d7-af7e-81d61bb01a51",
+                "value": "բացել",
+                "translation": "открывать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6ec0daa544e21b156856e23cb4dad691.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "1edaf59b-c755-4ab5-b98d-bc635e4c51b6",
+                "value": "վկայական",
+                "translation": "свидетельство",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b28d20bbf64dc48f592519c996650c4d.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "6962c743-17b6-4399-9d90-9a53b157fed3",
+                "value": "բնօրինակի",
+                "translation": "оригинал",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/44f5998cef6df3bd6c61db9a991f73af.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "36fb112a-1d39-4c8d-ab0d-7bbbf1bf44ba",
+                "value": "պատճեն",
+                "translation": "копия",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/967d3b50c6d0513c243e771a9e059386.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "40361485-6d81-459f-b5cd-0dfc9dd9833c",
+                "value": "թարգմանություն",
+                "translation": "перевод",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fa4e86c30ed763f486910e2bb928ff63.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "839a7253-0912-4e21-ba00-67a728fbd7d7",
+                "value": "ստորագրություն",
+                "translation": "подпись",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/13a5e5cce1490172b3d0c02e46950040.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "19ec7c40-bcdc-4953-b41a-c1dfc8f0bf97",
+                "value": "դիմում",
+                "translation": "заявление, анкета",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/df5a0b09fbf19448e46444ce2e4f0c0c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "933affc9-4e04-4d6f-93ba-8e7d12dd758a",
+                "value": "փաստաթուղթ",
+                "translation": "документ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/070ec773f1de54b0b587eb6405ea42ac.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d29ec4c7-3010-4ea5-9604-6048b0e30c61",
+                "value": "ոստիկանություն",
+                "translation": "полиция",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/24555995b57b8283eaf2730d8f5666f8.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "6fd58afe-cf4e-4529-b964-aa77398a8664",
+                "value": "աշխատակից",
+                "translation": "сотрудник",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5c6a2d6330788c2dcd724438416c4a5e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "1ed61c4f-6251-4082-b788-b9b97301d38d",
+                "value": "հերթ",
+                "translation": "очередь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/bbd0268a4cd1751fc5c930ce85da4050.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "93780dea-0cfa-46fa-b228-dbca8d4699c3",
+                "value": "տեղեկանք",
+                "translation": "справка",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/854d42ae89434ae2ea66c29462dfb42b.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "dc63071a-540c-4420-bd3e-b06ce8bb7721",
+                "value": "կնիք",
+                "translation": "печать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8a304ed71a76e6e08aed764aef4f23d6.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "33446e9f-6d89-44b0-a684-4e2a62fae46b",
+                "value": "կառավարություն",
+                "translation": "правительство",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4b3f1400cf8b3585104d9ab73139a1e6.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "6bec02d5-bdec-4ac1-9266-e4264206ce55",
+                "value": "քաղաքացիություն",
+                "translation": "гражданство",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6f6420b7dfdc1a37fe3daf7f98d8a261.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d379e68f-28c5-4354-b34c-e2d69d12fe21",
+                "value": "քաղաքացի",
+                "translation": "гражданин",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5acdfad8410ca33157823f2fd65770cd.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "1e23c250-b800-4552-a1f9-f76db688ea42",
+                "value": "համակարգիչ",
+                "translation": "компьютер",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d1c5ae46766fd3d6cbba8970aa7bda58.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "16538d04-5a0a-4847-81d5-fd9b347e2b08",
+                "value": "թուղթ",
+                "translation": "бумага",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/abf34d320bbd524b21ba1d22d035d07e.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "a8a1c930-f485-41b5-8b12-bbf3075b9d89",
+                "value": "թիմ",
+                "translation": "команда",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d1e2097232d93d050967e84b26673e76.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "adc2b34b-25f4-4bf8-9090-4bb76098e8d8",
+                "value": "հարձակվող",
+                "translation": "нападающий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7cfa1e060b934db0b52ea838c0381c71.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "b3c6e127-aa70-46c6-a991-5d26ff848acc",
+                "value": "կիսապաշտպան",
+                "translation": "полузащитник",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a28b6c7dec30d3c70cb5051456546f8a.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "4d8e5f04-a3b5-4dd2-88ec-05fb9deb1e0f",
+                "value": "պաշտպան",
+                "translation": "защитник",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d81c78675611bd0ed3ed33b4bd8f84fd.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "2f6ffeeb-5743-4baf-bce7-9b56749f6e10",
+                "value": "դարպասապահ",
+                "translation": "вратарь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8bb09ea40c2fd55ce1bf45c93a239415.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "deeb9761-2f27-47ce-a995-8b163bd45eed",
+                "value": "դաշտ",
+                "translation": "поле",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e898c259b18c6069bc854a2de7d65ab2.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "2f95e828-3f53-4d7b-8aad-8e90f30d7b1f",
+                "value": "կենտրոն",
+                "translation": "центр",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6d5beb6afeb2db1c57577ced459ad5b4.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "32d62e9e-bbb1-4327-9752-a1f285b4d6f7",
+                "value": "դարպաս",
+                "translation": "ворота",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/767ae95a41532dfdd15af72c22f5fc2c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "010e955f-eaa3-4d56-b8e1-4c708f412859",
+                "value": "գնդակ",
+                "translation": "мяч",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6d2d3097b9af87a3bd39418385e8c529.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "df02bb3e-4425-4e7f-99fb-97f3072981e0",
+                "value": "խաղ",
+                "translation": "игра",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4de847bc9ab0b8abb04ee22ab37102bc.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "669bb83e-70c8-4e8c-a2ea-eb9bd482bdff",
+                "value": "խաղաժամանակ",
+                "translation": "тайм",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/af342ac0881d1fa59274c947a7bde14c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "e1c672d4-fade-4c11-b7dd-e2f6c50a218d",
+                "value": "հաղթանակ",
+                "translation": "победа",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f947b1becd390071afe10b3c42174d2b.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "425c8f24-4f3d-4205-8a8e-cf5e71a3c188",
+                "value": "պարտություն",
+                "translation": "поражение",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/751f71a14f0b489bb2c141a5ad970029.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "c1a96a48-43c6-4cf8-9300-5b37e7ecb929",
+                "value": "դաշտավար",
+                "translation": "арбитр",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/39a914c5d86a5700c5eec7446c4245e5.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "65bb8d1f-f038-45ff-9eca-d5d574966dfa",
+                "value": "հարձակվել",
+                "translation": "атаковать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/88ea73bbb7416493c5a5a3a522550308.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "bb1f83e5-7016-4770-8214-a422601d2282",
+                "value": "պաշտպանվել",
+                "translation": "защищаться",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ab598aad840b4002e6965b979f4ffca4.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "a84585bf-e6af-4b4b-b9d8-6bf36b92e7e7",
+                "value": "հաղթել",
+                "translation": "побеждать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7fced671b7596d082588c73ba698c3a5.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "fa66262f-3f54-4555-ad0c-6ce07dc58f38",
+                "value": "պարտվել",
+                "translation": "проигрывать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1fd97d0ac1704a53a09a26196b61aee4.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "7f883e7e-b19b-41e0-aafb-f3162896fe2d",
+                "value": "փակել",
+                "translation": "закрывать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/171e68e52c94573dab62f0f8a88cff1a.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "87ab5c3c-c19e-48ac-bc26-de81be12c00c",
+                "value": "ուտել",
+                "translation": "есть еду",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/47e16648522c94f122712feededff2e7.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "eedb785f-2b7e-431e-a5cc-b0cf9ba7aba2",
+                "value": "խմել",
+                "translation": "пить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dc9a3740938312fae7dc23ad94184c41.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "024bc62c-e9f8-4479-bafb-100ed4647a81",
+                "value": "նվագել",
+                "translation": "играть музыку",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/66b83af34ef3eec6aefd0fb55ea5a52c.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "f27e6030-44cf-47e8-be1c-722e34fdfc03",
+                "value": "խաղալ",
+                "translation": "играть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5a6a785066094b368b0364a76dabedda.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "8af0e980-f412-4f19-af53-31e5638e1099",
+                "value": "ուզել",
+                "translation": "хотеть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b550341c967bc51402ce147c049128c8.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "04eb3145-9cd0-4768-928a-bb4de813500a",
+                "value": "սպասել",
+                "translation": "ждать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a7cf35efac58c27517647192e9d99e28.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "d0fa65d4-7eb5-4eb2-9d32-517285973d0b",
+                "value": "ասել",
+                "translation": "сказать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0335b74dba7fd13b33f53ca43f4c3323.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "e5c770f7-6af2-4c36-9cfc-84be67149d6a",
+                "value": "խոսել",
+                "translation": "говорить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/83806fba76a91dcdc1502a4ab5559b88.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "274ac682-4e14-452f-af0e-920327219d75",
+                "value": "պատմել",
+                "translation": "рассказывать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9d3afc170fba551633de6dee76475413.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "7d37ec4e-66ec-4e09-a69c-26be152149ad",
+                "value": "հիշել",
+                "translation": "помнить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0b1079d93f8b0c8d31244949ba163755.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "1985ee5f-7f34-4f1b-ac33-bb258c3e1ec8",
+                "value": "հասկանալ",
+                "translation": "понимать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/090febd2490a7f725a40902ceb92b0f1.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "3def0df7-8d25-40c6-b64c-7b8fcea86c00",
+                "value": "խորուրդային խաղ",
+                "translation": "настольная игра",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/02f0b167994d22a2492945c64a503ecc.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "ab75e9b7-15ef-4ac9-9854-ea0f552bf522",
+                "value": "ծննդյան վկայական",
+                "translation": "свидетельство о рождении",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/77f7bf7102fdadd99aef417ba0ff15ce.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "18995417-17d6-4732-acdd-13c184491fee",
+                "value": "մահվան վկայական",
+                "translation": "свидетельство о смерти",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/aec8c280d45d268cb75a2031f97a3f34.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "b5d29106-af46-4fc6-b3b8-ac0cfb0bac07",
+                "value": "ամուսնության վկայական",
+                "translation": "свидетельство о браке",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5fd25c444c7d40f6f8d678438e720df2.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "26e49d64-108b-435f-ae39-9671597e09ed",
+                "value": "դատարան",
+                "translation": "суд",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f7190e256c573beeced4e459cc43c239.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "454f6f03-2d92-4dd5-9892-f3716d5c58a0",
+                "value": "ազգային ժողով",
+                "translation": "национальное собрание",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e20940b4126ef64b3088c3b27786688d.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "cc3ad619-d96b-49c3-b193-23cfc61a1c7c",
+                "value": "ղեկավար",
+                "translation": "руководитель, начальник",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/945d744ea6155aa058fd6e71fdd742a1.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3d7e4699-e4e7-4ba1-a96f-1f444bc6f2ad",
+                "value": "խոսք տալ",
+                "translation": "обещать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/59a98e34f41df7eeb9478127bed5ef11.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "aa46a6ae-b2ad-465a-bf45-96eda2c07097",
+                "value": "խոսք տալ",
+                "translation": "обещать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8591cc20815b0d9d43f0108dadb4ed74.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "9848bbf8-d606-4422-83f3-3cf3b7d556d8",
+                "value": "ծնունդ",
+                "translation": "рождение",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e5a6858f949d26e18b96f14684402b90.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "80341e92-9c64-420a-9754-fc1a9c5f40b9",
+                "value": "մահ",
+                "translation": "смерть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/aeee2d74dea5942c9b0723942fd4d465.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "0ddc9469-2f0a-44d9-9fff-f096f0d545aa",
+                "value": "հինգ",
+                "translation": "пять",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7dabbe3bbe019dd8c2db424e52bfbc61.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "312a9dbf-de31-481d-bb02-e97ab6fe5e6a",
+                "value": "վեց",
+                "translation": "шесть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ca6249ed56c74f232c4bbc81521efdf8.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "587aa305-ad67-4f62-a9ce-31913b67ecf9",
+                "value": "յոթ",
+                "translation": "семь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dd915c0b4bc4be9e20d669733d2e0396.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "159cb434-dad8-4acb-ae03-d8f51a6114ad",
+                "value": "ութ",
+                "translation": "восемь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9721f9ab0629e37eac11053b81e3a8d3.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "b856a19c-8b7f-41a3-af14-18f2e87ca068",
+                "value": "ինը",
+                "translation": "девять",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/616ea553ee188a4e0a79a5daf7c815c8.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "ea2bb335-b9b6-400c-aa75-41ac749044bf",
+                "value": "տասն",
+                "translation": "десять",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/bc38d76baa0ed7efc405d80a91abe306.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "be4f36f3-e887-4b72-8524-017a1f5dacb1",
+                "value": "քսան",
+                "translation": "двадцать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d66fe7dfb69fcbb53f754c41263f3eec.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "48d53d52-d85f-4221-a097-4bf82ca420ee",
+                "value": "երեսուն",
+                "translation": "тридцать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2e8f0b569ca0095fac0a5c96c56dd6f0.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "b5a31850-9303-47cf-830b-1ed771b4ee5a",
+                "value": "քառասուն",
+                "translation": "сорок",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/213b1cde1e53b323676b6b3f3b658676.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "cabdaa91-cae9-40f4-bd32-1d34e2603f15",
+                "value": "հիսուն",
+                "translation": "пятьдесят",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fde4eafa971c31622a764c0d04df9fdb.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "9b11568c-9e24-4ad3-8ac4-cbb6bb43792a",
+                "value": "վաթոուն",
+                "translation": "шестьдесят",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d37902224189f8fbcd661ff35223ad44.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "21402b8a-8c1e-4030-8f61-6b5f0df9de1c",
+                "value": "յոթանասուն",
+                "translation": "семьдесят",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/187f1cec561ff27b70f4a4c7765c8ae8.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "3c63553b-47c0-4de3-a550-758eed0a404b",
+                "value": "ութսուն",
+                "translation": "восемьдесят",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/99be09886ae6f900c241df0a8d642aa1.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "33839e55-cae5-4804-97cc-60b85241b469",
+                "value": "իննսուն",
+                "translation": "девяносто",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/148627fbdd94859c765ffc3f0ca4c218.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "1612074a-adf7-4d45-a6b9-dad4840e7c19",
+                "value": "հարյուր",
+                "translation": "сто",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b76a7ae537182f53f9e652300b1061f8.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "a26eb031-d74d-41fc-852e-0bd936c1a489",
+                "value": "հազար",
+                "translation": "тысяча",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d80d87278c3697ce7f2c5043648ca00f.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "4d1faad0-1e5e-4efe-b564-6c833451c51f",
+                "value": "առաջին",
+                "translation": "первый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c5f93d2c6c78f342f25e57121ebfd877.mp3",
+                "kind": "numeral"
+            },
+            {
+                "id": "9c21e39a-3eff-44f3-98d3-4d328f441d36",
+                "value": "տուր",
+                "translation": "дай",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/197ec46907236aa799a6d613223ee63e.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "c8ecc425-b31c-4b76-80e5-f6d45b29d3d3",
+                "value": "տու",
+                "translation": "дай",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d3d31e9279d8faad5a05948a14b69b47.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "a4fb8836-54ed-4898-a2fe-78f759f5cff8",
+                "value": "տվեք",
+                "translation": "дайте",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c448c789031819967ac56350212eca04.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "69fea187-3b54-49c0-ae1b-69307261fd0f",
+                "value": "տվել",
+                "translation": "дал",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b24d239a92383838fd52a94a469d7dd9.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "3cb8c6b3-7b5b-4fec-8570-b318cfe55ef1",
+                "value": "տրվել",
+                "translation": "быть данным",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e7ba851e5471caf5236cc5d953375b09.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "3a87350f-4a8d-4938-afe1-fd9919187bb4",
+                "value": "տվեցի",
+                "translation": "я давал",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/53447f03dec7ecd6f5f41b2a53a485ac.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "6f0cb58f-7c85-43fd-854f-c105ac486897",
+                "value": "տվեցիր",
+                "translation": "ты давал",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b38f8dd4eb4f630ce147c42ff4b132ff.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "75d133a4-f597-416f-bb15-248205c1b36c",
+                "value": "տվեց",
+                "translation": "он давал",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9aa11f2b63efbed36bc48b25ea4740b7.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "2a3a27c7-c95a-4e64-adfc-a7d150569f04",
+                "value": "տվեցինք",
+                "translation": "мы давали",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/010b0e0665cb6118c474e235b7683a61.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "312694da-0931-4cb0-96d3-b58f951f0076",
+                "value": "տվեցին",
+                "translation": "они давали",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e9ef902061d36ac40721ac9843fb4546.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "4bac3e62-c860-4e00-8598-adf83f9dff06",
+                "value": "տրվիր",
+                "translation": "дайся",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d8b556a80e635171f9d6069241c177f2.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "048c26d8-1b38-4f2b-b1c2-5a83023884be",
+                "value": "տրվեք",
+                "translation": "дайтесь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/41111a3af53c789caf45eccba765bdb5.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "05bcf73b-51a7-425d-b2da-bc3afb650905",
+                "value": "հիմա",
+                "translation": "теперь, сейчас",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e69856f1dff93dea205ea72f8521a8f6.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "5ff593c3-4448-437c-960a-3835a5d9e25e",
+                "value": "վաղը",
+                "translation": "завтра",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f700d6da4fc3f4f8a05dba11b689e662.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "1c853654-1679-4fea-b7f0-98cee0305e5a",
+                "value": "երեկ",
+                "translation": "вчера",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/03857d503f425a3bdfb41ad7f072a32f.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "c8062d10-5592-435a-a7f0-31553041fff0",
+                "value": "որ",
+                "translation": "что, чтобы",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1670d5fcf6a54c14984cccbc4eac9229.mp3",
+                "kind": "pronoun"
+            },
+            {
+                "id": "524f51a9-7483-48ad-8475-1d22cdf86af8",
+                "value": "բայց",
+                "translation": "но",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/15bf15d17388ad3b06f10568a4a9dd14.mp3",
+                "kind": "conjunction"
+            },
+            {
+                "id": "4a3ca8c0-e4c1-4179-849c-a97530d57add",
+                "value": "մոտ",
+                "translation": "у",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/da0b7ba65927cc520a6ef4d643f59806.mp3",
+                "kind": "postposition"
+            },
+            {
+                "id": "b3c8120e-29cd-4d9a-b470-3ffbd9737539",
+                "value": "բարի օր",
+                "translation": "добрый день",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f752d0008d3f4c9507b321ce08547af0.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "5e7d04fd-3c0a-4ca3-9aae-d5bb42872fb7",
+                "value": "ցտեսություն",
+                "translation": "до свидания",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/11e29a1ef70f693e193e71c771c0a5ae.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "3a095de4-ebc3-442a-a372-e27472c24708",
+                "value": "ո՞նց եք",
+                "translation": "как вы?",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c259a25bd324b14eb9dc5dc4a6da46e9.mp3",
+                "kind": "phrase"
+            },
+            {
+                "id": "a6cf45ac-7516-4d21-afd3-c9ee963137d9",
+                "value": "ամիս",
+                "translation": "месяц",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2acc69f1fef91cacfc93f4c102397dff.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "e8c8aee8-1571-4403-b405-33f5e5386427",
+                "value": "հունվար",
+                "translation": "январь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b62189585a92ff2c189058ca0cdad433.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "f88ef359-24d8-4d7f-ade1-ea77392157ee",
+                "value": "փետրվար",
+                "translation": "февраль",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e95a7cf976443ec4ec3214a39989429a.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "e06d5635-cd69-49a8-baf7-0a31669ee71f",
+                "value": "մարտ",
+                "translation": "март",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/375f332db92141e0840d4ba1cf12d7a8.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "ceb4641f-603f-476a-ae65-eccdec12d4e7",
+                "value": "ապրիլ",
+                "translation": "апрель",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/103d71ed9bc675dd1c9eb01c025d75a6.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "221a3d17-edb9-4fed-b208-7060c6ecb3a0",
+                "value": "մայիս",
+                "translation": "май",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0455681d78e9181fe0cb1f4c8264fb19.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "6e1f5f57-7699-49c7-b40a-a3ff87eb6fcd",
+                "value": "հունիս",
+                "translation": "июнь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3b1dd32dd619d4d48d83a9ccbb3182c3.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "301f195f-dabf-450e-8f17-463773db5b8d",
+                "value": "հուլիս",
+                "translation": "июль",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/bbe1ef81a5b8a93c14ef8396fbc27138.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "4ccbc7e1-2e51-45ed-addf-c35c8bbc4eec",
+                "value": "օգոստոս",
+                "translation": "август",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e1acc22af46ccb7ef5f7f76d387b07b1.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "18677ab5-37cd-4c90-b961-35d1bf5201f2",
+                "value": "սեպտեմբեր",
+                "translation": "сентябрь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/bfcc3f42372cef2bc87ffbe5ceababba.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "d16e8d5c-b04d-4ade-a4e5-63a807be32ad",
+                "value": "հոկտեմբեր",
+                "translation": "октябрь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/cef1e32802e90c4e37e798bee4f8e862.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "135221cf-103f-4fe9-9953-ea8c19cb47df",
+                "value": "նոյեմբեր",
+                "translation": "ноябрь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d306fa2e37afeef3fa097db72c8e5ed4.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "77d9bd0e-0762-4e88-9f31-f574ce0f0eb9",
+                "value": "դեկտեմբեր",
+                "translation": "декабрь",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1667d5062c7d3065d2dc6f3ce3539a19.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "dae4a5c7-81d6-4e28-80d0-6e324a1753b7",
+                "value": "երկուշաբթի",
+                "translation": "понедельник",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6e7a058d90c8c132755e0616c5e74c9d.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "79a60ea6-ef16-41fb-83c6-2e55e5e75aeb",
+                "value": "երեքշաբթի",
+                "translation": "вторник",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e00c82e546f2650dbb4710887a6f7973.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "bdab2226-1e33-4388-b128-88f694a8923f",
+                "value": "չորեքշաբթի",
+                "translation": "среда",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d18268a317069a8748b57f0b77318063.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "2d5c0ab4-c89a-498e-9ecc-34257e7a1c89",
+                "value": "հինգշաբթի",
+                "translation": "четверг",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/104aaa6340501488c570a348df47284c.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "70fd4df5-3244-4b56-a643-b7192b001436",
+                "value": "ուրբաթ",
+                "translation": "пятница",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fa38e29b8b7f21806f3c5ea085eec8e9.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "0c9c1473-7743-4a19-ab56-562d3642c9a7",
+                "value": "շաբաթ",
+                "translation": "суббота",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/06ff8c88ab04859d2eff8bca18e07cc7.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "3fb38a11-ffd9-46b0-905b-0dcc5291563a",
+                "value": "կիրակի",
+                "translation": "воскресенье",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6d3d51fc350e05fcb5532a6024924da8.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "05cd6c3c-b4d1-4fe6-a45a-fb25a5d47408",
+                "value": "այսօր",
+                "translation": "сегодня",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c0b29e15894fdeccae277d618bb0e246.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "f3f3e9e4-49e8-4fbd-846b-dc37fdcd97e5",
+                "value": "հաճախ",
+                "translation": "часто",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c932c8a82b5fa86c585e7f6be66e857a.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "8a52fbfc-2d50-4129-9d89-2b6eda8a61e2",
+                "value": "երբեք",
+                "translation": "никогда",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/14071d52fa95d806039cac3f3bbbf160.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "6f852abc-f3d8-404a-b3ea-c178c4fbd230",
+                "value": "հազվադեպ",
+                "translation": "редко",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4f0cba86328f2cd5586a7011894e6135.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "1a42cc84-ad08-4a79-a0d7-716c6e0de4cc",
+                "value": "հիվանդ",
+                "translation": "больной",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/62b122deed55e62482610d2bc2e38004.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "3c3f8132-3210-42ef-ac99-1b5280117f57",
+                "value": "ցավել",
+                "translation": "болеть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9a1d01e7a8c8152b1732209b5dfa1e88.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "a955d925-561a-434f-9dc0-809d1e6dd20d",
+                "value": "որակյալ",
+                "translation": "качественный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f978deb221764a42de31073ac3ed4303.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "8a9fe181-a8ea-4eb7-af96-c0b8fc0b1c8b",
+                "value": "նույն",
+                "translation": "одинаковый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1b6cf4a4a41e924158132d8fec662534.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "59c8848c-f6d7-4e73-854f-b5066ea4fef7",
+                "value": "տարբեր",
+                "translation": "разный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e493cb4453e4bbe2519fef9d2dd5caa1.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "35285323-f2c7-4fdc-b76f-3696c7264fbf",
+                "value": "հարազատ",
+                "translation": "родной",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/233f66e5f5083cbf8f491b99d2f60929.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "225ab695-3f7a-4bfc-97ad-b4d044a24473",
+                "value": "շուտ֊շուտ",
+                "translation": "часто (разг.)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/484ba462be908b55c9afa04be38a073b.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "013757ae-66fe-443a-95ef-ed7f83490138",
+                "value": "մեկ֊մեկ",
+                "translation": "иногда",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5e79e0ee3f5772eb2316d6aecdd8b551.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "2b74fded-a87c-4ea4-9522-c58c796f79e4",
+                "value": "ամուսնացած",
+                "translation": "замужем, женат",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/078eb8c373bfd41647e629779309fb5c.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "aedd202f-69de-4acf-827c-d3ba93aa0c52",
+                "value": "բաժանված",
+                "translation": "в разводе",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/795a5e94553b0ad9dc4ffbef5ed9c48d.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "e236cb89-7b0f-42a0-9202-bc70eeb97bb2",
+                "value": "ամուսնանալ",
+                "translation": "жениться",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3702c15b8521946b0c5a7786e694006e.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "bc387662-66cf-47fb-a8ee-afcabf2a94c0",
+                "value": "բաժանվել",
+                "translation": "разводиться",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/240a4ae9d53cd07c3a1b485bd066dd46.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "29b428f5-a123-4915-97bf-0d6c82291db4",
+                "value": "տաք",
+                "translation": "теплый, горячий",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/bf7c0d0c291e64816b260c38a8606dd3.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "871237bb-8b2e-4e9f-8c35-7a12ff82ecfe",
+                "value": "սառը",
+                "translation": "холодный",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d6fa574f08915044a551212f90d17074.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "7d227221-fc4a-4901-98a7-6300c4f4441e",
+                "value": "շոգ",
+                "translation": "жаркая (погода)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2bc020408aebac5f8e8c988b4a32848b.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "9232f45c-8a05-442b-a1f8-0dddf0c8038b",
+                "value": "ցուրտ",
+                "translation": "холодная (погода)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1fef35d3e99995915515f4027508e8b1.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "e02bc9da-aefc-44ab-9f0d-0025fed7db3f",
+                "value": "շատ",
+                "translation": "много, очень",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/2b022725162aef766022ceb4c0ab6b29.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "3b09a1a0-90cd-4932-8037-6e38fa07b5b2",
+                "value": "քիչ",
+                "translation": "мало, немного",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/abf25f2e4cfa5bc48af06b2f62efb92b.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "481f3540-e3bf-4264-96c1-a5c0ecb19d5c",
+                "value": "փող",
+                "translation": "деньги",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4827c614d4bac2e72ce8c1a8461abea2.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "de88adfb-fce1-4cb1-85a3-159973d4a752",
+                "value": "հեծանիվ",
+                "translation": "велосипед",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4d9c44040259b7aaf99ae2e5cf01e5e6.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "eb330c02-fde4-4c7c-b9c2-cb2c4175d72e",
+                "value": "խանութ",
+                "translation": "магазин",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8a242fc8bd1971218bdeef50401f6b12.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "6d502a8e-84a8-4c73-8bc2-8c420738b6e2",
+                "value": "պայուսակ",
+                "translation": "сумка",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/557a4460825b7977357db00f201f6cc8.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "221b8e9b-e51a-4083-baaa-67d9e3512a79",
+                "value": "մեքենա",
+                "translation": "машина",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/078af6d2c9fd40aa7227b9737f845bc6.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "475023a0-9110-43d9-bb18-3a106425542d",
+                "value": "առջևում",
+                "translation": "впереди",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3279a462179ec0ee3e5b8277a8ce203a.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "ccba89ff-de42-411e-a414-d675538d84a4",
+                "value": "հետևում",
+                "translation": "позади",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ca7b6816c94f5a7ef178581b2842838a.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "096013f2-ed95-4421-b537-15b795eac58a",
+                "value": "առաջ",
+                "translation": "раньше, до",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/be080d03443ca8f43863c73dfa551353.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "af7f0d80-50a4-402e-9452-38f4542ffdbc",
+                "value": "հետո",
+                "translation": "потом, после",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f49246952e326501eca48a2a6487d8b2.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "e5d72ff9-f604-471b-aa15-4d60487af15c",
+                "value": "վերջ",
+                "translation": "конец",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b6c263d3e912012d3b4ed515bc2c8dd0.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "b8a73e5b-4809-40dc-a317-5328f5079265",
+                "value": "ամեն",
+                "translation": "каждый",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/45c2c22d82cf63b08e20e04681d2d9f9.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "56df0d87-e88d-4ffe-a2b6-b7257f058f15",
+                "value": "միշտ",
+                "translation": "всегда",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/cca4345f1123e3708109d61738546b29.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "0c6d9319-909f-4ea3-862a-ab133722753b",
+                "value": "ցանկացած",
+                "translation": "любой",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/a586a803b5497d5f2fd080c33cfb7b99.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "53be9d71-72f1-4b91-a924-6d822670f727",
+                "value": "մնացած",
+                "translation": "остальной",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/854d305735af02f1277e65e930f753c4.mp3",
+                "kind": "adjective"
+            },
+            {
+                "id": "95231001-5c55-488a-b92e-7073898ad852",
+                "value": "պատրաստել",
+                "translation": "готовить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d454a9fd9cee059b4b6aaa79b2555cb7.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "8a5a461f-1d94-4742-86a0-9ad9d899068c",
+                "value": "պատրաստվել",
+                "translation": "готовиться",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f6eb140a9f0f7decce88f17d34ed33fc.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "87f2015b-453a-463d-8ee2-17e413a0f5bb",
+                "value": "սարքել",
+                "translation": "чинить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/803cfa1ff5ba61120724f04caf5f6f12.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "6f012f7a-43e9-48bb-b50b-2c7b8479898a",
+                "value": "սկսել",
+                "translation": "начинать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ac2156cdf881bf751424a4d35575079a.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "de841974-0c2a-4997-a444-3e4bb6518dff",
+                "value": "վերջացնել",
+                "translation": "заканчивать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/35f04ae1665883199d93ae549969d2c1.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "ce56b24e-c1c2-4aff-a344-deb2ac6611d7",
+                "value": "կարդալ",
+                "translation": "читать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8946ceb696c180207f9dfcfd0545344f.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "3ed6e3e6-ce6e-45cb-a6a6-6cd0b0e08355",
+                "value": "սովորել",
+                "translation": "учиться, учить (самому)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c926c3542c4647dddead0cad4e344515.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "b39774d1-6828-42f8-b1b2-00ef7e217a9d",
+                "value": "գրել",
+                "translation": "писать (письмо)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/faa51cb6a0561f94e6e86c793f6908f0.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "89d68aac-9e21-4069-8ddc-af6c4401d247",
+                "value": "մտածել",
+                "translation": "думать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/64fae8f41c3a37ce97d53db1eb40c08b.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "8ce6d68a-c44e-41f5-8e87-82f513c22e85",
+                "value": "լինել",
+                "translation": "бывать, быть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d27af512c1cca0cd221826ddc1d28649.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "94e8c297-10f4-47f2-bae8-fbfcae36f4a7",
+                "value": "գնել",
+                "translation": "покупать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7a17e93deb893144e7b478598b32fbfe.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "763b4f99-2492-4df8-908c-f983c1fd4d3b",
+                "value": "վաճառել",
+                "translation": "продавать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/84d365ed17741016043e6c4c61948c3f.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "3d9262c0-0366-4673-bf49-0cce5b8dc7e0",
+                "value": "վաճառվել",
+                "translation": "продаваться",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5a6110da56a31e560852662afe4e6d6d.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "a2ff1050-f1cd-4ae6-b38b-0fb3ec5523c9",
+                "value": "ծխել",
+                "translation": "курить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/93df79e2697a3902f2cfbcd8ecc39788.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "66f9e4bb-0b2a-4dee-9313-7cb2a00e735e",
+                "value": "վճարել",
+                "translation": "платить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/8d800a138cfef230b1918e0946307100.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "7bd917e9-84e8-47a0-aea1-61431d7a654b",
+                "value": "տեսնել",
+                "translation": "видеть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4384e155abde7201a9f9ab8f1953a49f.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "51604479-cd40-491a-9e10-355f85b582a2",
+                "value": "բերել",
+                "translation": "приносить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/008c1cbf36f2d220ac3213ab46987928.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "de4a49ce-c4e0-444f-84fb-581bad342f71",
+                "value": "տանել",
+                "translation": "относить",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9b2fd52c54f9b306f55cc5fee8002bc3.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "81079910-510b-473a-bc22-9b8d927aa49e",
+                "value": "զբոսնել",
+                "translation": "гулять",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/3cb4f27067b8efbd0f8c9b87f4497fc8.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "38d0aeea-0710-4def-b3b7-59fdf785ec99",
+                "value": "նստել",
+                "translation": "сидеть",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e09e730813f98e42797cfa5f3d032e09.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "d157c16d-854f-44f4-a5b4-9a73820dce43",
+                "value": "կանգնել",
+                "translation": "стоять",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/729e1d400acb5ac50c1b6fda87a1426f.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "efeff225-cfbf-4750-a303-e89c67d2ba5a",
+                "value": "քնել",
+                "translation": "спать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/81eb4608339696f79a9a49dacbc4de47.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "c2749e80-071a-4736-a511-620d12dcefbd",
+                "value": "պառկել",
+                "translation": "лежать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/9e5aeeb36690f1255b615028b5bac6c3.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "9a9c15f3-f724-46f0-97fa-9839f5b7287b",
+                "value": "հոգնել",
+                "translation": "уставать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/7e8afc80a483bb69000de78bad579aa4.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "15ee9a21-a479-40ac-ab05-f646275b4864",
+                "value": "օգնել",
+                "translation": "помогать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/1de496685933e2492ba6347a3c155460.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "2dbeed4f-1505-4732-a31b-d6444a83cddc",
+                "value": "առնել",
+                "translation": "брать, покупать",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/ea75ccc88813ed3d0dc54329bba319ec.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "183b0874-6651-414e-916d-47ecaed9e03a",
+                "value": "ծախել",
+                "translation": "продавать (разг.)",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/189d1653d56fe81193f1671a1e914139.mp3",
+                "kind": "verb"
+            },
+            {
+                "id": "1a4eb82f-e887-406c-b5ce-282dac8be61f",
+                "value": "հեռու",
+                "translation": "далеко",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/b3bc65bd03487cfb6c152537b7e36aeb.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "84052f51-380d-40f2-86fe-8c6dfbc6e731",
+                "value": "վերեւում",
+                "translation": "наверху",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c68527bf59f084b9af2b423ee45ee93e.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "9ec493aa-2977-4809-baa4-08c86e005b47",
+                "value": "ներքեւում",
+                "translation": "внизу",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/6aa5ed5ca85f58d0541e48ab4eb95233.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "fbbfc43d-42cb-48ec-99eb-848ba008a772",
+                "value": "տանը",
+                "translation": "дома",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c9a7220089eb968ea49f82637eb78171.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "8ee2b317-e7ae-41cf-ad2e-aa874407b2b9",
+                "value": "դրսում",
+                "translation": "снаружи",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/729ae50eb71fec1c03fe9ec241a4e913.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "88e405b0-af67-4de6-af0e-a6a8af67a4b7",
+                "value": "անհավատալի",
+                "translation": "невероятно",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/912c727be834d78c6bb5db5af051ba1a.mp3",
+                "kind": "adverb"
+            },
+            {
+                "id": "cd778121-cdd8-41a8-be64-877dd3b5e3c8",
+                "value": "կին",
+                "translation": "женщина, жена",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/fbea01347ec1042eb50cf3db388da785.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "89c724cb-caef-4216-9e8b-55aaf0c447e1",
+                "value": "տղամարդ",
+                "translation": "мужчина",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/dd4c0749d6aea69a27465815e67b7b61.mp3",
+                "kind": "noun"
+            },
+            {
+                "id": "9b71ea33-4876-4f5b-83ac-b5f809d4c718",
+                "value": "ոտք",
+                "translation": "нога",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/c1611d02925aca2f18980fc212d11ee9.mp3",
+                "kind": ""
+            },
+            {
+                "id": "c67edd38-35c5-47ed-b383-736f484a0016",
+                "value": "ձեռք",
+                "translation": "рука",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/0c9dc78d82b6088f3b2eaeb6dbd6a6a0.mp3",
+                "kind": ""
+            },
+            {
+                "id": "1fc40dc0-4cb9-414c-83dd-2df0d96edc5a",
+                "value": "գուլպա",
+                "translation": "носок",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/5475d88cf2d35e5286f91778cff5ed8e.mp3",
+                "kind": ""
+            },
+            {
+                "id": "7d1ee166-4ab6-4c82-a006-0bd71ebe4864",
+                "value": "էլեկտրականություն",
+                "translation": "электричество",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/d4ffaaaf053ed683be7fe825b96d8192.mp3",
+                "kind": ""
+            },
+            {
+                "id": "6e745967-dc12-45a9-a504-0a6ad133f02a",
+                "value": "գազ",
+                "translation": "газ",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/e74f9a4b702c9791772651ea46252fe3.mp3",
+                "kind": ""
+            },
+            {
+                "id": "d05467a6-9c6f-4ca0-ac4f-9837da095a22",
+                "value": "ջեռուցում",
+                "translation": "отопление",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/f4f407df36929608177d954a352533a3.mp3",
+                "kind": ""
+            },
+            {
+                "id": "7a719c8d-6276-476d-8a08-a05e08b65657",
+                "value": "հայաստանի հանրապետություն",
+                "translation": "республика армения",
+                "speechUrl": "https://yesenian01.blob.core.windows.net/speeches/4de851ec7861026be5f0860bdf24b5e1.mp3",
+                "kind": ""
+            }
+        ]
+    }
+}
