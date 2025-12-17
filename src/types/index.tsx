@@ -11,3 +11,5 @@ export interface DataSetItem {
     speechUrl: string;
     kind: string;
 }
+
+export type TileAnimation = 'idle' | 'wrong' | 'correct' | 'leave' | 'new' | 'active';

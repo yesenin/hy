@@ -4,6 +4,8 @@ import './index.css'
 import App from './App.tsx'
 import { createHashRouter, RouterProvider } from 'react-router'
 import Cards from './pages/Cards.tsx'
+import Dashboard from './pages/Dashboard.tsx'
+import Showcase from './pages/Showcase.tsx'
 
 const router = createHashRouter([
   {
@@ -13,6 +15,14 @@ const router = createHashRouter([
   {
     path: 'cards',
     element: <Cards />,
+  },
+  {
+    path: 'dashboard',
+    element: <Dashboard />
+  },
+  {
+    path: 'showcase',
+    element: <Showcase />
   }
 ]);
 
