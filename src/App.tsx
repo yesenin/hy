@@ -1,9 +1,7 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-  return (
-    <h2>Hy?</h2>
-  )
+  return <h2>Hy? Sr?</h2>;
 }
 
-export default App
+export default App;
