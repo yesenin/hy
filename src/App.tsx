@@ -1,7 +1,9 @@
 import { GoogleLogin } from "@react-oauth/google";
 import { useState } from "react";
+import type { ReactNode } from "react";
 import { Link, Route, Routes, useNavigate } from "react-router-dom";
 import Admin from "./Admin";
+import AdminWordDetails from "./AdminWordDetails";
 import "./App.css";
 import {
   clearStoredUser,
@@ -16,10 +18,12 @@ function ProtectedAdmin({
   user,
   onLogin,
   onLogout,
+  children,
 }: {
   user: AuthUser | null;
   onLogin: (user: AuthUser) => void;
   onLogout: () => void;
+  children?: ReactNode;
 }) {
   const navigate = useNavigate();
 
@@ -63,7 +67,9 @@ function ProtectedAdmin({
   }
 
   return (
-    <Admin userName={user.name} userEmail={user.email} onLogout={onLogout} />
+    children ?? (
+      <Admin userName={user.name} userEmail={user.email} onLogout={onLogout} />
+    )
   );
 }
 
@@ -91,6 +97,18 @@ function App() {
             onLogin={handleLogin}
             onLogout={handleLogout}
           />
+        }
+      />
+      <Route
+        path="/admin/words/:wordId"
+        element={
+          <ProtectedAdmin
+            user={user}
+            onLogin={handleLogin}
+            onLogout={handleLogout}
+          >
+            <AdminWordDetails />
+          </ProtectedAdmin>
         }
       />
       <Route path="*" element={<Home user={user} />} />
