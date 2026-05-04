@@ -1,6 +1,12 @@
 import { jwtDecode } from "jwt-decode";
 
 const SESSION_STORAGE_KEY = "hy.google-session";
+const ADMIN_EMAILS = (
+  import.meta.env.VITE_ADMIN_EMAILS ?? "anton.yesenin@gmail.com"
+)
+  .split(",")
+  .map((email: string) => email.trim().toLowerCase())
+  .filter(Boolean);
 
 export type AuthUser = {
   email: string;
@@ -53,4 +59,12 @@ export function persistUser(user: AuthUser) {
 
 export function clearStoredUser() {
   sessionStorage.removeItem(SESSION_STORAGE_KEY);
+}
+
+export function isAllowedAdminUser(user: AuthUser | null) {
+  if (!user) {
+    return false;
+  }
+
+  return ADMIN_EMAILS.includes(user.email.toLowerCase());
 }

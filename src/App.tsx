@@ -8,6 +8,7 @@ import "./App.css";
 import {
   clearStoredUser,
   decodeGoogleCredential,
+  isAllowedAdminUser,
   loadStoredUser,
   persistUser,
   type AuthUser,
@@ -26,6 +27,7 @@ function ProtectedAdmin({
   children?: ReactNode;
 }) {
   const navigate = useNavigate();
+  const isAllowedUser = isAllowedAdminUser(user);
 
   if (!user) {
     return (
@@ -49,6 +51,13 @@ function ProtectedAdmin({
                   return;
                 }
 
+                if (!isAllowedAdminUser(nextUser)) {
+                  window.alert(
+                    "This Google account does not have admin access.",
+                  );
+                  return;
+                }
+
                 onLogin(nextUser);
                 navigate("/admin", { replace: true });
               }}
@@ -60,6 +69,28 @@ function ProtectedAdmin({
             <Link className="footer-admin-link" to="/">
               back
             </Link>
+          </div>
+        </section>
+      </main>
+    );
+  }
+
+  if (!isAllowedUser) {
+    return (
+      <main className="admin-page">
+        <section className="admin-panel admin-login-panel">
+          <p className="eyebrow">Protected Area</p>
+          <h1>Access denied</h1>
+          <p className="admin-copy">
+            Для этого Google-аккаунта доступ в админку не разрешен.
+          </p>
+          <div className="admin-actions">
+            <Link className="ghost-button" to="/">
+              Back to home
+            </Link>
+            <button type="button" onClick={onLogout}>
+              Sign out
+            </button>
           </div>
         </section>
       </main>
