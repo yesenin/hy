@@ -17,6 +17,7 @@ const languageOptions = [
   { value: "fr", label: "французский" },
   { value: "sr", label: "сербский" },
   { value: "hy", label: "армянский" },
+  { value: "other", label: "другой" },
 ] as const;
 
 const kindOptions = [
@@ -29,6 +30,8 @@ const kindOptions = [
   { value: "conjunction", label: "союз" },
   { value: "interjection", label: "междометие" },
   { value: "particle", label: "частица" },
+  { value: "numeral", label: "числительное" },
+  { value: "other", label: "прочее" },
   { value: "phrase", label: "фраза" },
 ] as const;
 
@@ -276,26 +279,28 @@ function Admin({ userName, userEmail, onLogout }: AdminProps) {
                       </tr>
                     </thead>
                     <tbody>
-                      {words.map((word) => (
-                        <tr key={word.id}>
-                          <td>
-                            <Link
-                              className="admin-table-link"
-                              to={`/admin/words/${word.id}?lang=${encodeURIComponent(getDetailLang(word.language))}`}
-                            >
-                              {word.ru}
-                            </Link>
-                          </td>
-                          <td>{word.language}</td>
-                          <td>
-                            {typeof word.draft === "boolean"
-                              ? word.draft
-                                ? "true"
-                                : "false"
-                              : "-"}
-                          </td>
-                        </tr>
-                      ))}
+                      {words
+                        .sort((a, b) => a.ru.localeCompare(b.ru))
+                        .map((word) => (
+                          <tr key={word.id}>
+                            <td>
+                              <Link
+                                className="admin-table-link"
+                                to={`/admin/words/${word.id}?lang=${encodeURIComponent(getDetailLang(word.language))}`}
+                              >
+                                {word.ru}
+                              </Link>
+                            </td>
+                            <td>{word.language}</td>
+                            <td>
+                              {typeof word.draft === "boolean"
+                                ? word.draft
+                                  ? "true"
+                                  : "false"
+                                : "-"}
+                            </td>
+                          </tr>
+                        ))}
                     </tbody>
                   </table>
                 </div>

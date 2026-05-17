@@ -14,7 +14,7 @@ export interface Word {
   ru: string;
   language: string;
   translations: Translation[];
-  tags?: Tag[];
+  tags?: string[];
   initForm?: boolean;
   kind: string;
   draft?: boolean;

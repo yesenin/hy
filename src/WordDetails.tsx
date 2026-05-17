@@ -1,75 +1,16 @@
 import { useEffect, useState } from "react";
-import { Link, useParams, useSearchParams } from "react-router-dom";
-import type { Tag, Translation, Word } from "./models";
+import { useSearchParams } from "react-router";
+import type { Word } from "./models";
 
 const wordsApiUrl =
   "https://r681j7dz04.execute-api.eu-north-1.amazonaws.com/words";
 
-function isTranslation(item: unknown): item is Translation {
-  return (
-    typeof item === "object" &&
-    item !== null &&
-    "id" in item &&
-    typeof item.id === "string" &&
-    "variant" in item &&
-    typeof item.variant === "string" &&
-    "value" in item &&
-    typeof item.value === "string"
-  );
-}
+function getDetailId(id: string | null): string {
+  if (!id) {
+    return "";
+  }
 
-function isTag(item: unknown): item is Tag {
-  return (
-    typeof item === "object" &&
-    item !== null &&
-    "id" in item &&
-    typeof item.id === "string" &&
-    "key" in item &&
-    typeof item.key === "string" &&
-    "value" in item &&
-    typeof item.value === "string"
-  );
-}
-
-function isWord(item: unknown): item is Word {
-  const tags =
-    typeof item === "object" && item !== null && "tags" in item
-      ? item.tags
-      : undefined;
-  const initForm =
-    typeof item === "object" && item !== null && "initForm" in item
-      ? item.initForm
-      : undefined;
-  const draft =
-    typeof item === "object" && item !== null && "draft" in item
-      ? item.draft
-      : undefined;
-
-  return (
-    typeof item === "object" &&
-    item !== null &&
-    "id" in item &&
-    typeof item.id === "string" &&
-    "ru" in item &&
-    typeof item.ru === "string" &&
-    "language" in item &&
-    typeof item.language === "string" &&
-    "translations" in item &&
-    Array.isArray(item.translations) &&
-    item.translations.every((translation) => isTranslation(translation)) &&
-    "kind" in item &&
-    typeof item.kind === "string" &&
-    "source" in item &&
-    typeof item.source === "string" &&
-    "addedAt" in item &&
-    typeof item.addedAt === "string" &&
-    "modifiedAt" in item &&
-    typeof item.modifiedAt === "string" &&
-    //(tags === undefined ||
-    //  (Array.isArray(tags) && tags.every((tag) => isTag(tag)))) &&
-    (initForm === undefined || typeof initForm === "boolean") &&
-    (draft === undefined || typeof draft === "boolean")
-  );
+  return id.split("-")[0] ?? id;
 }
 
 function getDetailLang(language: string | null): string {
@@ -89,12 +30,12 @@ function ReadonlyField({ label, value }: { label: string; value: string }) {
   );
 }
 
-function AdminWordDetails() {
-  const { wordId } = useParams();
+function WordDetails() {
   const [searchParams] = useSearchParams();
   const [word, setWord] = useState<Word | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const wordId = getDetailId(searchParams.get("id"));
   const lang = getDetailLang(searchParams.get("lang"));
 
   useEffect(() => {
@@ -122,11 +63,7 @@ function AdminWordDetails() {
 
         const payload = (await response.json()) as unknown;
 
-        if (!isWord(payload)) {
-          throw new Error("Unexpected response shape");
-        }
-
-        setWord(payload);
+        setWord(payload as Word);
       } catch (error) {
         if (
           abortController.signal.aborted ||
@@ -158,12 +95,6 @@ function AdminWordDetails() {
         <p className="admin-copy">
           Readonly-страница слова из backend по `id` и `lang`.
         </p>
-
-        <div className="admin-actions">
-          <Link className="ghost-button" to="/admin">
-            Back to admin
-          </Link>
-        </div>
 
         {isLoading ? <p className="status-copy">Загрузка слова...</p> : null}
         {errorMessage ? <p className="status-copy">{errorMessage}</p> : null}
@@ -249,4 +180,4 @@ function AdminWordDetails() {
   );
 }
 
-export default AdminWordDetails;
+export default WordDetails;

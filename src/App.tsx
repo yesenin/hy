@@ -14,6 +14,7 @@ import {
   type AuthUser,
 } from "./auth";
 import Home from "./Home";
+import WordDetails from "./WordDetails";
 
 function ProtectedAdmin({
   user,
@@ -120,6 +121,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Home user={user} />} />
+      <Route path="/words" element={<WordDetails />} />
       <Route
         path="/admin"
         element={
