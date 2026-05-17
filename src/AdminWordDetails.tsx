@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useParams, useSearchParams } from "react-router-dom";
-import type { Tag, Translation, Word } from "./models";
+import type { Translation, Word } from "./models";
 
 const wordsApiUrl =
   "https://r681j7dz04.execute-api.eu-north-1.amazonaws.com/words";
@@ -18,24 +18,7 @@ function isTranslation(item: unknown): item is Translation {
   );
 }
 
-function isTag(item: unknown): item is Tag {
-  return (
-    typeof item === "object" &&
-    item !== null &&
-    "id" in item &&
-    typeof item.id === "string" &&
-    "key" in item &&
-    typeof item.key === "string" &&
-    "value" in item &&
-    typeof item.value === "string"
-  );
-}
-
 function isWord(item: unknown): item is Word {
-  const tags =
-    typeof item === "object" && item !== null && "tags" in item
-      ? item.tags
-      : undefined;
   const initForm =
     typeof item === "object" && item !== null && "initForm" in item
       ? item.initForm
