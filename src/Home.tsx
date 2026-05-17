@@ -23,13 +23,16 @@ function isWordDto(item: unknown): item is WordDto {
 }
 
 function Home({ user }: HomeProps) {
+  /*
   const [words, setWords] = useState<string[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  */
 
   useEffect(() => {
     const abortController = new AbortController();
 
+    /*
     async function fetchWords() {
       try {
         setIsLoading(true);
@@ -68,6 +71,7 @@ function Home({ user }: HomeProps) {
     }
 
     void fetchWords();
+    */
 
     return () => {
       abortController.abort();
@@ -77,9 +81,10 @@ function Home({ user }: HomeProps) {
   return (
     <main className="landing-page">
       <section className="words-card">
-        <h1>Words</h1>
+        <h1>Слова</h1>
+        <h4>А кто их знает, как их все дешево взять из Dynamo DB.</h4>
 
-        {isLoading ? <p className="status-copy">Loading...</p> : null}
+        {/* {isLoading ? <p className="status-copy">Loading...</p> : null}
         {errorMessage ? <p className="status-copy">{errorMessage}</p> : null}
 
         {!isLoading && !errorMessage ? (
@@ -88,14 +93,14 @@ function Home({ user }: HomeProps) {
               <li key={word}>{word}</li>
             ))}
           </ul>
-        ) : null}
+        ) : null} */}
 
         <footer className="page-footer">
           {user ? (
             <span className="footer-note">Signed in as {user.email}</span>
           ) : null}
           <Link className="footer-admin-link" to="/admin">
-            admin
+            CMS
           </Link>
         </footer>
       </section>

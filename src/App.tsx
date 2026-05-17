@@ -34,9 +34,10 @@ function ProtectedAdmin({
     return (
       <main className="admin-page">
         <section className="admin-panel admin-login-panel">
-          <p className="eyebrow">Protected Area</p>
-          <h1>Admin</h1>
-          <p className="admin-copy">Sign in with Google to continue.</p>
+          <h1>CMS</h1>
+          <p className="admin-copy">
+            Антон, войди уже через Google, чтобы продолжить.
+          </p>
           <div className="admin-actions">
             <GoogleLogin
               onSuccess={(credentialResponse) => {
@@ -54,7 +55,7 @@ function ProtectedAdmin({
 
                 if (!isAllowedAdminUser(nextUser)) {
                   window.alert(
-                    "This Google account does not have admin access.",
+                    "Для этого Google-аккаунта доступ в CMS не разрешен.",
                   );
                   return;
                 }
@@ -63,12 +64,14 @@ function ProtectedAdmin({
                 navigate("/admin", { replace: true });
               }}
               onError={() => {
-                window.alert("Google authentication failed. Please try again.");
+                window.alert(
+                  "Не удалось пройти аутентификацию через Google. Пожалуйста, попробуйте снова.",
+                );
               }}
               useOneTap
             />
             <Link className="footer-admin-link" to="/">
-              back
+              Назад на заглавную
             </Link>
           </div>
         </section>
@@ -80,17 +83,17 @@ function ProtectedAdmin({
     return (
       <main className="admin-page">
         <section className="admin-panel admin-login-panel">
-          <p className="eyebrow">Protected Area</p>
-          <h1>Access denied</h1>
+          <h1>Не получится увидеть.</h1>
+          <h4>Да и не стоит оно того.</h4>
           <p className="admin-copy">
-            Для этого Google-аккаунта доступ в админку не разрешен.
+            Для этого Google-аккаунта доступ в CMS не разрешен.
           </p>
           <div className="admin-actions">
             <Link className="ghost-button" to="/">
-              Back to home
+              Назад на заглавную
             </Link>
             <button type="button" onClick={onLogout}>
-              Sign out
+              Выйти
             </button>
           </div>
         </section>
